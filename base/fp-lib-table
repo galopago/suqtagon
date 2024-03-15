@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "LED_SMD_SIDE")(type "KiCad")(uri "${KIPRJMOD}/LED_SMD_SIDE.pretty")(options "")(descr ""))
+  (lib (name "MountingHoleConnector")(type "KiCad")(uri "${KIPRJMOD}/MountingHoleConnector.pretty")(options "")(descr ""))
 )

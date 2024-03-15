@@ -1,4 +1,4 @@
-20899095288993812
+20904225243720041
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58015,6 +58015,13 @@ LED
 0
 2
 2
+LED_SMD_SIDE
+LED_RGB_1210
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
 LED_THT
 LED_BL-FL7680RGB
 'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
@@ -60010,6 +60017,20 @@ mounting hole 8.4mm m8
 0
 9
 1
+MountingHoleConnector
+MountingHole_3.2mm_M3_6mmx10mm_Pad
+Mounting Hole 3.2mm, M3, 6mmx10mm Pad
+mounting hole 3.2mm m3 6mmx10mm Pad
+0
+0
+0
+MountingHoleConnector
+MountingHole_3.2mm_M3_10mmx10mm_Pad
+Mounting Hole 3.2mm, M3, 10mm Pad
+mounting hole 3.2mm m3 10mm Pad
+0
+0
+0
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
