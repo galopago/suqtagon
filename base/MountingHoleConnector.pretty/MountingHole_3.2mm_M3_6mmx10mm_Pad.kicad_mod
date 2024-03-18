@@ -18,5 +18,5 @@
   )
   (fp_rect (start -5.25 -3.25) (end 5.25 3.25) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp f868c595-2d79-463e-86fa-1f9498554421))
   (fp_rect (start -5 -3) (end 5 3) (layer "F.Fab") (width 0.1) (fill none) (tstamp a20b5ab9-e259-47b3-bd58-9d80933a1a72))
-  (pad "" np_thru_hole roundrect (at 0 0) (size 9.75 5.75) (drill 3.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 17b7df9b-a857-4080-839c-f678c4f420d2))
+  (pad "" np_thru_hole roundrect (at 0 0) (size 9.5 5.5) (drill 3.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 17b7df9b-a857-4080-839c-f678c4f420d2))
 )
