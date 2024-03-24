@@ -2,4 +2,5 @@
   (lib (name "LED_SMD_SIDE")(type "KiCad")(uri "${KIPRJMOD}/LED_SMD_SIDE.pretty")(options "")(descr ""))
   (lib (name "MountingHoleConnector")(type "KiCad")(uri "${KIPRJMOD}/MountingHoleConnector.pretty")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-legacy_kicad6/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "LED_SMD_REVERSE_MOUNT")(type "KiCad")(uri "${KIPRJMOD}/LED_SMD_REVERSE_MOUNT.pretty")(options "")(descr ""))
 )
