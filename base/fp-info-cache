@@ -1,4 +1,4 @@
-20961533392893471
+20963246371596230
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -48670,6 +48670,13 @@ connector Wuerth WR-WTB vertical
 0
 10
 10
+Connector_XH
+XH _PH_2P_1x02_P2.54mm_Horizontal
+XH  series connector, XH2.54mm  (https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205271816_XUNPU-WAFER-XH2-54-2PWB_C3029476.pdf), generated with kicad-footprint-generator
+1x2P , 2.5mm Male pin SMD,P=2.5mm Wire To Board / Wire To Wire Connector ROHS
+0
+4
+2
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
