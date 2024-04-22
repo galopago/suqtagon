@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-legacy_kicad6/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_Side")(type "KiCad")(uri "${KIPRJMOD}/library/LED_Side.kicad_sym")(options "")(descr ""))
 )
