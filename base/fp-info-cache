@@ -1,4 +1,4 @@
-20966673868893242
+20968387814326494
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58136,6 +58136,13 @@ LED 3227
 4
 LED_SMD_SIDE
 LED_SMD_SK6812_SIDE_A_4020
+RGB LED 4.0x2.0x1.6mm SIDE-A http://www.normandled.com/upload/202105/SK6812SIDE-A-RVS%20LED%20Datasheet.pdf
+LED SMD 2040
+0
+4
+4
+LED_SMD_SIDE
+LED_SMD_SK6812_SIDE_A_4020_HandSolder
 RGB LED 4.0x2.0x1.6mm SIDE-A http://www.normandled.com/upload/202105/SK6812SIDE-A-RVS%20LED%20Datasheet.pdf
 LED SMD 2040
 0
